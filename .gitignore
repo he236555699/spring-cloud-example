@@ -1,4 +1,4 @@
-HELP.md
+spring-cloud-security/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -31,5 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-.idea/
-../.idea
